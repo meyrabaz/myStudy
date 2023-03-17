@@ -1,0 +1,4 @@
+Java is fun.
+If we know Lambda , working with Lists is easier.
+Lambda is functional programming.
+We can use methods in Lambda.
